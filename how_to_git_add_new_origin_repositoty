@@ -1,0 +1,7 @@
+//follow the commands below
+mkdir new_barnch_dir
+cd  new_branch_dir
+git init
+git remote add new_branch_remote url
+git pull new_branch_remote branch_name
+
