@@ -1,0 +1,7 @@
+menu "finger print"
+config FPC1011F3
+	bool "fpc support"
+	depends on SPI
+	default m 
+endmenu
+

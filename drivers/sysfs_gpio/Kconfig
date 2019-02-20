@@ -1,0 +1,5 @@
+menu "ctrl gpio"
+config CTRLGPIO
+    bool "gpio ctrl"
+    default y	
+endmenu
